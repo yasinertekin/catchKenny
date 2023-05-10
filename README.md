@@ -13,8 +13,8 @@ Bu proje, kullanıcının ekranda beliren bir resmi bulma ve skorunu artırma am
 - 
 # Ekran Görüntüleri
 
-![github](/Kenny.png)
-![github](/Kenny2.png)
+![github](/Kenny.jpg)
+
 
 # Kurulum
 - Bu projeyi klonlayın veya ZIP olarak indirin.
