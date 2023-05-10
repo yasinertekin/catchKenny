@@ -24,16 +24,16 @@ Bu proje, kullanıcının ekranda beliren bir resmi bulma ve skorunu artırma am
 - Android SDK
 - Android Studio
 # Katkıda Bulunma
-Bu depoyu çatallayın (Fork).
-Yeni bir dal (branch) oluşturun (git checkout -b feature/branch_name).
-Değişikliklerinizi yapın ve bunları gönderin (commit) (git commit -am 'Add some feature').
-Dalınıza itme yapın (push) (git push origin feature/branch_name).
-Bir Birleştirme İsteği (Pull Request) oluşturun.
+- Bu depoyu çatallayın (Fork).
+- Yeni bir dal (branch) oluşturun (git checkout -b feature/branch_name).
+- Değişikliklerinizi yapın ve bunları gönderin (commit) (git commit -am 'Add some feature').
+- Dalınıza itme yapın (push) (git push origin feature/branch_name).
+- Bir Birleştirme İsteği (Pull Request) oluşturun.
 # Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+- Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
 # İletişim
-Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin.
+- Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin.
 
-İsim: [Yasin Ertekin]
-E-posta: [yasinertekin24@gmail.com]
+- İsim: [Yasin Ertekin]
+- E-posta: [yasinertekin24@gmail.com]
