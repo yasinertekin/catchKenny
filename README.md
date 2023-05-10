@@ -13,6 +13,9 @@ Bu proje, kullanıcının ekranda beliren bir resmi bulma ve skorunu artırma am
 - 
 # Ekran Görüntüleri
 
+![github](/assets/screen.jpg)
+![github](/assets/screen1.jpg)
+
 # Kurulum
 - Bu projeyi klonlayın veya ZIP olarak indirin.
 - Android Studio'yu açın ve projeyi açın.
