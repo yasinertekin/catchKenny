@@ -10,7 +10,6 @@ Bu proje, kullanıcının ekranda beliren bir resmi bulma ve skorunu artırma am
 - Kullanıcı resmi bulduğunda skorunu artırabilir.
 - Oyun süresi içinde kalan süre ekranda görüntülenir.
 - Oyun süresi dolduğunda skor ve resim gizlenir, kullanıcıya tekrar oynamak isteyip istemediği sorulur.
-- 
 # Ekran Görüntüleri
 
 ![github](/Kenny.jpg)
